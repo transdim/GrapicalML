@@ -14,9 +14,9 @@
   <tr>
     <td align="center"><a href="https://github.com/
 Martina1024"><img src="https://github.com/
-Martina1024.png?size=90" width="90px;" alt="Xudong Wang (王旭东)"/><br /><sub><b>Xudong Wang (王旭东)</b></sub></a><br /><a href="https://github.com/mobility-computing/GraphicalML/commits?author=
+Martina1024.png?size=90" width="90px;" alt="Xudong Wang"/><br /><sub><b>Xudong Wang</b></sub></a><br /><a href="https://github.com/mobility-computing/GraphicalML/commits?author=
 Martina1024" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/xinychen"><img src="https://github.com/xinychen.png?size=90" width="90px;" alt="Xinyu Chen (陈新宇)"/><br /><sub><b>Xinyu Chen (陈新宇)</b></sub></a><br /><a href="https://github.com/mobility-computing/GraphicalML/commits?author=xinychen" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/xinychen"><img src="https://github.com/xinychen.png?size=90" width="90px;" alt="Xinyu Chen"/><br /><sub><b>Xinyu Chen</b></sub></a><br /><a href="https://github.com/mobility-computing/GraphicalML/commits?author=xinychen" title="Code">💻</a></td>
   </tr>
 </table>
 
