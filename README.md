@@ -1,11 +1,11 @@
 # GraphicalML
 
-概率图模型与机器学习模型 (Python) (中文版)
+概率图模型与机器学习 (Python) (中文版)
 
 ## 内容
 - [贝叶斯Lasso回归](xxxx)
 
-- [贝叶斯向量自回归](xxxx)
+- [贝叶斯向量自回归](https://nbviewer.jupyter.org/github/mobility-computing/GrapicalML/blob/master/content/bvar.ipynb)
 
 
 ## 贡献者
